@@ -22,7 +22,7 @@ Dataset yang digunakan mencakup informasi berikut:
 
 ---
 
-### 🧩 Segmentasi Konsumen
+### Segmentasi Konsumen
 
 | Cluster | Nama Segmentasi         | Interpretasi                                                | Tindak Lanjut Strategis                                 |
 | ------- | ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
@@ -33,10 +33,19 @@ Dataset yang digunakan mencakup informasi berikut:
 
 ---
 
-### 📈 Visualisasi
+### Visualisasi
 
+* Distribusi Cluster per Country
+  Menunjukkan persebaran segmentasi (Cluster 0–3) di masing-masing negara secara grup bar chart.
 
-* **Distribusi Cluster per Country**: Menunjukkan persebaran segmentasi di tiap negara.
+* Produk dengan Penjualan Di Bawah Rata-rata Selama 3 Bulan Berturut-turut
+  Menampilkan produk-produk yang secara konsisten memiliki rata-rata penjualan di bawah rata-rata global pada bulan Juni–Agustus, sehingga dapat dijadikan prioritas untuk strategi evaluasi.
+
+* Time Series Rata-rata Penjualan per Bulan
+  Grafik interaktif yang memperlihatkan perkembangan rata-rata penjualan per bulan untuk masing-masing produk, membantu melihat tren naik/turun dari waktu ke waktu.
+
+* Time Series Penjualan per Kota (Country)
+  Visual interaktif berbasis dropdown untuk mengeksplorasi tren penjualan bulanan di tiap negara. Pengguna dapat memilih negara untuk melihat dinamika penjualannya secara detail dari waktu ke waktu.
 
 ---
 
